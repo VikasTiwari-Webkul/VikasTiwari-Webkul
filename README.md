@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikas Tiwari
-- 👀 I’m Working in [Webkul Sofware](https://webkul.com/)
+- 👀 I’m Working in [Webkul Software](https://webkul.com/)
 - 🌱 I’m currently learning Fullstack Development
 
 <!---
